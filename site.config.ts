@@ -3,7 +3,8 @@ import { siteConfig } from './lib/site-config'
 export default siteConfig({
   // the site's root Notion page (required)
   // https://joyous-sphynx-82c.notion.site/my-blog-972d00bcdb2144c1b621a5e7a5ed10c9?pvs=4
-  rootNotionPageId: '972d00bcdb2144c1b621a5e7a5ed10c9',
+  // https://joyous-sphynx-82c.notion.site/Next-js-Notion-Starter-Kit-Template-e61b9cff9dac4527afb365fefa1003fb?pvs=4
+  rootNotionPageId: 'e61b9cff9dac4527afb365fefa1003fb',
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
